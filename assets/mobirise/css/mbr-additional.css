@@ -6982,42 +6982,42 @@ a {
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-t4exJPpQ5J {
+.cid-thTICW8KvZ {
   padding-top: 0rem;
   padding-bottom: 9rem;
   background-image: url("../../../assets/images/mbr-1919x1080.jpg");
 }
-.cid-t4exJPpQ5J .content-wrapper {
+.cid-thTICW8KvZ .content-wrapper {
   background: #fafafa;
 }
 @media (max-width: 991px) {
-  .cid-t4exJPpQ5J .content-wrapper .image-wrapper {
+  .cid-thTICW8KvZ .content-wrapper .image-wrapper {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-t4exJPpQ5J .content-wrapper {
+  .cid-thTICW8KvZ .content-wrapper {
     padding: 1rem;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .cid-t4exJPpQ5J .content-wrapper {
+  .cid-thTICW8KvZ .content-wrapper {
     padding: 2rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-t4exJPpQ5J .content-wrapper {
+  .cid-thTICW8KvZ .content-wrapper {
     padding: 5rem 3rem;
   }
-  .cid-t4exJPpQ5J .content-wrapper .text-wrapper {
+  .cid-thTICW8KvZ .content-wrapper .text-wrapper {
     padding-left: 2rem;
   }
 }
-.cid-t4exJPpQ5J .image-wrapper img {
+.cid-thTICW8KvZ .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
-.cid-t4exJPpQ5J .card-title {
+.cid-thTICW8KvZ .card-title {
   text-align: center;
 }
 .cid-sOXpxMhLHK {
@@ -7769,6 +7769,44 @@ a {
   padding-bottom: 30px;
   background-color: #232323;
   overflow: hidden;
+}
+.cid-thTJ5tCJQu {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-thTJ5tCJQu .content-wrapper {
+  background: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-thTJ5tCJQu .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-thTJ5tCJQu .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-thTJ5tCJQu .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-thTJ5tCJQu .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-thTJ5tCJQu .content-wrapper .text-wrapper {
+    padding-left: 2rem;
+  }
+}
+.cid-thTJ5tCJQu .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-thTJ5tCJQu .card-title {
+  text-align: center;
 }
 .cid-t80rEprsyq {
   padding-top: 6rem;
